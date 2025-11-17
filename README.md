@@ -21,7 +21,7 @@ generator: "@tarslib/widdershins v4.0.30"
 
 # 默认模块
 
-Base URLs:
+Base URLs: www.wechatapi.net
 
 # Authentication
 
